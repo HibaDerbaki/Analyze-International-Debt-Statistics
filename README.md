@@ -1,5 +1,4 @@
-# Analyze-International-Debt-Statistics
-analysis of international debt data 
+## Analyze-International-Debt-Statistics
 
 In this project, I analyze international debt statistics provided by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across the globe as recorded from 1970 to 2015.
 
